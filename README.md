@@ -3,7 +3,7 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
+ 
 Explain what software engineering is and discuss its importance in the technology industry.
 Can be defined as a part of computer science that involves the development, testing and maintenance of softwares. Software engineering is important because it is reliable, it ensures the software runs as required without and follows industry standards this is essential for industries like security , health or even finance. Efficiency, helps with the developer with workflow and ensures that the code is up to standard with requirements.Scalability and Flexibility, it also helps systems handle large data without it affecting performance.Security, it also addresses cybersecurity by using authentication , authorisation and encryption to safeguard user data from being breach. 
 
